@@ -7,8 +7,8 @@ from spotipy.oauth2 import SpotifyOAuth
 import time
 
 # 🧠 Set your Spotify credentials
-SPOTIFY_CLIENT_ID = '948dca753b804efe8db4c29b7ee8b7e0'
-SPOTIFY_CLIENT_SECRET = 'c0a6ad3725cc4d928186e451557bf9b1'
+SPOTIFY_CLIENT_ID = '#your Spotify credentials'
+SPOTIFY_CLIENT_SECRET = '#your Spotify credentials'
 SPOTIFY_REDIRECT_URI = 'http://localhost:8080/callback'
 
 # 🟢 Initialize Spotify client
